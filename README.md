@@ -1,4 +1,10 @@
-# React + Vite
+proyecto realizado con # React + Vite
+
+ecommerce de tiende de zapatillas
+
+libreria de disño material ui
+react spriner para el loading
+base dato firebase
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
