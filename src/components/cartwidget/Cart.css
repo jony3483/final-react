@@ -1,0 +1,22 @@
+.imgcart{
+    width: 200px;
+}
+.cart{
+    text-align: center;
+    align-items: center;
+}
+.cartdet{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.cartprecio{
+    margin-top: 20px;
+    padding: 10px;
+}
+.cartbtn {
+    margin-top: 50px;
+    margin-left: 100px;
+}

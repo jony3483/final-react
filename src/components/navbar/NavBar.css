@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    background-color: rgb(17, 234, 173);
+}
+.lodin{
+    margin-left: 1000px;
+    margin-top: 400px;
+}

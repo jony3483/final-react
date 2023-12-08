@@ -1,0 +1,14 @@
+.header {
+    height: 10vh;
+}
+.main {
+    min-height: 80vh;
+}
+
+.footer {
+    height: 10vh;
+    background-color: rgb(17, 234, 173);
+    text-align: center;
+    padding-top: 30px;
+}
+
